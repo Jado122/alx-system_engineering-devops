@@ -1,2 +1,2 @@
-#!/bin/bash
-. -type d -exec chmod ugo+x {} \;.
+#!/bin/bas
+chmod -R +X .
